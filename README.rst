@@ -12,7 +12,7 @@ Django code for phpMyAdmin's website.
 .. image:: https://api.codacy.com/project/badge/Grade/4cfc116f766947dcad6c006b295aafc2    
     :target: https://www.codacy.com/app/phpMyAdmin/website
 
-Requirements
+Requirements for the website
 ------------
 
 Website needs Python 2.7, additional dependencies are listed in `requirements.txt`.
@@ -124,7 +124,7 @@ License
 
 The website generator is licensed under GNU GPL version 2 or later.
 
-Website itself uses some MIT licensed Javascript libraries:
+Website itself uses some MIT licensed Javascript(Js) libraries:
 
 * jQuery <https://jquery.com/>
 * Bootstrap <https://getbootstrap.com/>
